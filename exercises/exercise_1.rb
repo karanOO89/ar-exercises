@@ -25,6 +25,7 @@ store3.mens_apparel = true
 store3.womens_apparel = false
 store3.save
 
+
 puts("no of stores:#{Store.count}")
 
 
